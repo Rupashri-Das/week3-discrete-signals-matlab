@@ -59,7 +59,7 @@ This project implements six fundamental discrete-time signals:
 ### Instructions
 1. **Clone or Download this repository**:
    ```bash
-   git clone https://github.com/[your-username]/week3-discrete-signals-matlab.git
+   git clone https://github.com/Rupashri-Das/week3-discrete-signals-matlab.git
    ```
 
 2. **Open MATLAB** and navigate to the project directory
